@@ -1,0 +1,24 @@
+body
+{
+
+}
+
+.heading {
+    width: 100%;
+}
+
+.heading button{
+    float: right;
+}
+
+.btn-1 {
+    background-color: aqua;
+    font-size: 25px;
+    margin: 0;
+}
+
+.btn-2{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
